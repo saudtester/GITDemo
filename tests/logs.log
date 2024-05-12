@@ -1,0 +1,21 @@
+2024-05-08 00:22:16,588 :INFO :test_e2e :getting all the card titles
+2024-05-08 00:22:19,004 :INFO :test_e2e :Going through all the products to search Blackberry
+2024-05-08 00:22:19,668 :INFO :test_e2e :Typing the word India
+2024-05-08 00:28:37,618 :INFO :test_form_submission :First name is Saud Malik
+2024-05-08 00:28:42,124 :INFO :test_form_submission :First name is Jane Doe
+2024-05-08 00:28:42,124 :INFO :test_form_submission :First name is Jane Doe
+2024-05-08 00:28:55,519 :INFO :test_e2e :getting all the card titles
+2024-05-08 00:28:56,867 :INFO :test_e2e :Going through all the products to search Blackberry
+2024-05-08 00:28:57,602 :INFO :test_e2e :Typing the word India
+2024-05-08 00:54:47,004 :INFO :test_form_submission :First name is Saud Malik
+2024-05-08 00:54:56,236 :INFO :test_form_submission :First name is Jane Doe
+2024-05-08 00:54:56,236 :INFO :test_form_submission :First name is Jane Doe
+2024-05-08 00:55:26,312 :INFO :test_e2e :getting all the card titles
+2024-05-08 00:55:29,785 :INFO :test_e2e :Going through all the products to search Blackberry
+2024-05-08 00:55:30,347 :INFO :test_e2e :Typing the word India
+2024-05-08 01:04:46,421 :INFO :test_form_submission :First name is Saud Malik
+2024-05-08 01:05:26,249 :INFO :test_e2e :getting all the card titles
+2024-05-08 01:10:14,433 :INFO :test_form_submission :First name is Saud Malik
+2024-05-08 01:10:20,983 :INFO :test_form_submission :First name is Jane Doe
+2024-05-08 01:10:20,983 :INFO :test_form_submission :First name is Jane Doe
+2024-05-08 01:10:55,114 :INFO :test_e2e :getting all the card titles
